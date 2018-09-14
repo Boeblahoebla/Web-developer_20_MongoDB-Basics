@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "5a68fdc3615eda645bc6bdec",
+    "naam": "Primer HTML - CSS",
+    "locatie": {
+      "gebouw": "DTP - Vlaamse Kaai",
+      "straat": "Vlaamse Kaai 10",
+      "postcode": "9000",
+      "stad": "Gent"
+    },
+    "inschrijvingen": [
+      {
+        "voornaam": "Piet",
+        "naam": "Parkiet",
+        "aanwezig": false
+      },
+      {
+        "voornaam": "Mark",
+        "naam": "Stijvehark",
+        "aanwezig": false
+      },
+      {
+        "voornaam": "Els",
+        "naam": "Ishels",
+        "aanwezig": false
+      }
+    ],
+    "lesgevers": [
+      {
+        "voornaam": "Dzengiz",
+        "naam": "Tafa",
+        "rol": "Coordinator"
+      },
+      {
+        "voornaam": "Obaiullah",
+        "naam": "Safi",
+        "rol": "Bijstand"
+      }
+    ]
+  }
+]
